@@ -1,0 +1,11 @@
+... https://nextjs.org/
+0.. npx create-next-app@latest
+1.. npm install sass
+2.. npm install axios
+3.. npm install cookies-next
+
+icones
+4.. npm install lucide-react
+
+alert personalizado
+5.. npm install sonner
